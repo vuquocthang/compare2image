@@ -1,3 +1,5 @@
+# coding=utf-8
+
 #from skimage.measure import structural_similarity as ssim
 import random
 
